@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Tolis> -- <Developer> -- <lintolis>
 
 # THANKS
 
