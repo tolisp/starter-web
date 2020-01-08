@@ -21,3 +21,5 @@ Sample website with plenty of files for demos
 Blah blah blah
 
 ## COPYRIGHT
+
+All rights reserved
